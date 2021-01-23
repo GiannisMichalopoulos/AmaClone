@@ -33,7 +33,7 @@ function Payment() {
 
     }
     
-    return (
+    return ( 
         <div className='payment'>
             <div className='payment__container'>
 
